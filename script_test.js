@@ -1,3 +1,5 @@
+//Prototype
+
 const person = new Object({
     name: 'Maxim',
     age: 25,
@@ -14,3 +16,5 @@ const lena = Object.create(person)
 lena.name = 'Elena'
 
 const str = new String("I am string")
+
+//this, call, bind, apply
